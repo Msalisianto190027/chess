@@ -1,5 +1,5 @@
 # chess
-program ini menggunakan pyqt5 
+program ini menggunakan pyqt5 <br>
 untuk desainya sendiri menggunakan qtdesainer ..
 
 ## silahkan jika mau meng upgrade atau mendownload 
