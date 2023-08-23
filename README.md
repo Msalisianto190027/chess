@@ -1,15 +1,15 @@
 # Game catur dengan PyQt5
 Program ini menggunakan library PyQt5 untuk membuat antarmuka grafis yang menarik. Qt Designer adalah alat yang memungkinkan Anda untuk mendesain antarmuka pengguna secara visual tanpa harus menulis kode.
 
-## Langkah Pertama: Instalasi PyQt5 dan Qt Designer
+**Langkah Pertama: Instalasi PyQt5 dan Qt Designer**
 
 Sebelum memulai, pastikan Anda telah menginstal PyQt5 dan Qt Designer di komputer Anda. Jika belum terpasang, Anda dapat mengunduh dan menginstalnya dari sumber yang tersedia secara online.
 
-## Langkah Kedua: Menjalankan Program
+**Langkah Kedua: Menjalankan Program**
 
 Setelah PyQt5 dan Qt Designer terinstal, Anda dapat menjalankan program. Program ini akan menampilkan antarmuka grafis yang telah Anda desain menggunakan Qt Designer. Anda dapat melihat tata letak, tombol, dan elemen desain lainnya di layar.
 
-## Langkah Ketiga: Mengembangkan Program
+**Langkah Ketiga: Mengembangkan Program**
 
 Salah satu kelebihan program ini adalah fleksibilitasnya. Anda dapat mengembangkan program ini lebih lanjut dengan beberapa cara:
 
@@ -21,11 +21,11 @@ Salah satu kelebihan program ini adalah fleksibilitasnya. Anda dapat mengembangk
 
 4. Meng-upgrade Program: Jika Anda ingin meng-upgrade program ini dengan lebih banyak fitur atau perbaikan, Anda dapat melakukannya sesuai kebutuhan.
 
-### Menggunakan Qt Designer untuk Desain
+**Menggunakan Qt Designer untuk Desain**
 
 Qt Designer memudahkan proses desain antarmuka grafis tanpa perlu menulis kode secara manual. Anda dapat menambahkan elemen, mengatur tata letak, dan mengubah properti dengan mudah melalui antarmuka visual.
 
-## Kesimpulan
+**Kesimpulan**
 
 Program ini adalah contoh bagaimana PyQt5 dan Qt Designer dapat digunakan untuk membuat aplikasi dengan antarmuka yang menarik. Anda dapat mengembangkan program ini lebih lanjut dengan menambahkan fitur, mengubah desain, atau meningkatkan fungsionalitas. Jika Anda tertarik, jangan ragu untuk meng-upgrade atau mendownload alat yang diperlukan untuk pengembangan lebih lanjut.
 
